@@ -3,6 +3,8 @@
 
 I made this to train my JS a bit so the code most likely is a complete mess.
 
+The supported languages are English and German.
+
 ## Requirements
 All you need to run the convertor is a stable release of Node JS.
 You can download Node JS on the [official webiste](https://nodejs.org/en/download) or by using the [Node version manager](https://www.npmjs.com/package/n)
@@ -22,13 +24,11 @@ Alternitively, if you have the module yarn, or any similar module, you can also 
 Only the Swiss, German and the International spelling tables are supported here. So if you need any other spelling table, this won't help you.
 After you succesfully downloaded the convertor and meeting all the requirements, you can execute it by using on of the following ways:
 
-- On Windows
-Go to the main folder of the project and run `run.bat`
+- On Windows, go to the main folder of the project and run `run.bat`
 
-- On Linux
-Go to the main folder of the project and run `run.sh`
+- On Linux, go to the main folder of the project and run `run.sh`
 
 ## License
-This small project of mine is published using the MIT License meaning that you can use, copy, modify, merge, puglish, distribute, sublicense and/or sellf copies of this software without any kind of charge.
+This software is licensed using the MIT License.
 
-The software is provided "AS IS" without warranty of any kind.
+For further information, refer to the file [LICENSE](https://github.com/Tomentos/SpellingAlphabetConvertor/blob/master/LICENSE)
